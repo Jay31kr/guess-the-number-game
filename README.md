@@ -27,6 +27,11 @@ The "Guess The Number" game is a classic game where the player tries to guess a 
 6. Repeat steps 4 and 5 until you guess the correct number.
 7. After guessing the correct number, you can choose to play again by clicking the "Again" button.
 
+
+### Live Demo
+Check out the live demo of the "Guess The Number" game [here](https://jay31kr.github.io/guess-the-number-game/).
+
+
 ### Credits
 This project was built as part of the JavaScript course by Jonas Schmedtmann. Special thanks to Jonas for providing excellent learning resources.
 
@@ -34,3 +39,5 @@ This project was built as part of the JavaScript course by Jonas Schmedtmann. Sp
 - Jonas Schmedtmann for the invaluable learning materials and guidance.
 - OpenAI(chatGpt) for providing the language model used to generate this README.
 
+### My GitHub
+Explore my GitHub profile: [Jay31kr](https://github.com/Jay31kr)
