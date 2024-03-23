@@ -27,6 +27,7 @@ The "Guess The Number" game is a classic game where the player tries to guess a 
 6. Repeat steps 4 and 5 until you guess the correct number.
 7. After guessing the correct number, you can choose to play again by clicking the "Again" button.
 
+**Note**: You can also play the game directly through the demo link provided below.
 
 ### Live Demo
 Check out the live demo of the "Guess The Number" game [here](https://jay31kr.github.io/guess-the-number-game/).
